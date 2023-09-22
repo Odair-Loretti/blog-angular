@@ -1,0 +1,15 @@
+
+@media screen and (max-width:600px){
+    .container_menu-bar{
+        width: 100%;
+    }
+
+    .container_menu-bar > ul > li{
+    font-size: 12PX;
+    }
+    .container_menu-bar > ul > li{
+    margin-right: 5px;
+        
+    }
+}
+    
